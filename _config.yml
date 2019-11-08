@@ -4,7 +4,7 @@ email:       michaelv03@gmail.com
 author:      Michael Lin
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://michael-lin.net/personal-blog/"
+url:         "michaellin.github.io/personal-blog/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
