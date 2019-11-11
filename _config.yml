@@ -1,14 +1,13 @@
 # Site settings
-title:       Michael Lin's Blog
+title:       Michael Lin
 email:       michaelv03@gmail.com
 author:      Michael Lin
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A personal blog to keep notes and share"
 baseurl:     ""
-url:         "michaellin.github.io/personal-blog/"
+url:         "http://michaellin.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -25,9 +24,9 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
-enable_anchorjs: false
+enable_anchorjs: true
 # Preview image for social media aka og:image and twitter:image
 post_preview_image: false
 
@@ -47,11 +46,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: michaellin
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: michaelv03
 skype_username:
 steam_nickname:
 google_plus_id:
