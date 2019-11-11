@@ -12,3 +12,6 @@ In grasping and object manipulation it is important to know what the force inter
 We have motivated now that it is important to analyze the frictional forces at the contact points and understand how much force we can apply and under what conditions. To start off, a simple model for contact is a point contact. That is, a point through which only shear and normal forces can be transmitted.
 
 #### Point Contact
+A point contact can exert a force represented as the following wrench:
+
+$$\mathcal{F} = \begin{bmatrix} F_x\\F_y \end{bmatrix}$$
